@@ -1,0 +1,7 @@
+dist
+*.log
+code.js
+coverage
+yarn.lock
+node_modules
+package-lock.json

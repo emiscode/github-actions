@@ -1,0 +1,14 @@
+{
+  "name": "figma-onboarding-plugin",
+  "id": "1304454446241079799",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": ["codegen"],
+  "editorType": ["dev"],
+  "codegenLanguages": [
+    {
+      "label": "JavaScript",
+      "value": "javascript"
+    }
+  ]
+}
